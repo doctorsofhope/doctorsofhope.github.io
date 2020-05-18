@@ -141,7 +141,7 @@ a {
 }
 
 .nav-links a:hover {
-  color: #ff3a3a;
+  color: #ffe5b4;
   transition: 0.25s;
 }
 
@@ -195,7 +195,7 @@ a {
 }
 
 .icon-chevrons-down:hover {
-  color: #ff3a3a;
+  color: #ffe5b4;
   transition: 0.25s;
 }
 
@@ -249,7 +249,7 @@ a {
 }
 
 .project a:hover {
-  color: #ff3a3a;
+  color: #ffe5b4;
   transition: 0.3s;
 }
 
@@ -269,7 +269,7 @@ a {
 }
 
 .section-title {
-  color: #ff3a3a;
+  color: #ffe5b4;
   font-size: 4em;
 }
 
@@ -303,12 +303,12 @@ a {
 }
 
 .about p a {
-  color: #ff3a3a;
+  color: #ffe5b4;
   text-decoration: var(--bg-primary) underline;
   transition: 0.4s;
 }
 
 .about p a:hover {
-  text-decoration: #ff3a3a underline;
+  text-decoration: #ffe5b4 underline;
   transition: 0.4s;
 }
