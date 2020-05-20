@@ -276,7 +276,7 @@ a {
   font-size: 12px;
   text-align: center;
   width: 100%;
-  background-color: var(--bg-secondary);
+  background-color: var(lightgray);
   position: absolute;
   top: 300vh;
   left: 0;
@@ -302,7 +302,7 @@ a {
 
 .about p a {
   color: #ffe5b4;
-  text-decoration: var(--bg-primary) underline;
+  text-decoration: gold underline;
   transition: 0.4s;
 }
 
