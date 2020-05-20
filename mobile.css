@@ -1,3 +1,7 @@
+html{
+ background-color: gold; 
+}
+
 :root {
   --text-primary: black;
   --bg-primary: gold;
