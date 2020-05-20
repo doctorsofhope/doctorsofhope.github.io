@@ -1,6 +1,6 @@
 :root {
   --text-primary: black;
-  --bg-primary: white;
+  --bg-primary: gold;
   --bg-secondary: lightgray;
   --logo-filter: brightness(1);
   --image-shadow: 0 0 100px rgba(0, 0, 0, 0.24);
