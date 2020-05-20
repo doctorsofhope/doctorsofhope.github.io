@@ -36,7 +36,7 @@
 }
 
 body {
-  background-color: var(--bg-primary);
+  background-color: gold;
   font-family: 'Josefin Sans', sans-serif;
   overflow-x: hidden;
 }
@@ -61,7 +61,7 @@ a {
   animation-duration: 1s;
   animation-delay: 1.5s;
   z-index: 5;
-  background-color: var(--bg-primary);
+  background-color: gold;
 }
 
 .fly-in img {
@@ -92,7 +92,7 @@ a {
   animation-duration: 1s;
   animation-fill-mode: forwards;
   animation-delay: 1.75s;
-  background-color: var(--bg-primary);
+  background-color: lightgray;
 }
 
 .nav-logo {
